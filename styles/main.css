@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'Kizami';
     /*src: url('../fonts/font_1_kokumr_1.00_rls.ttf');*/
-    src: url('../../fonts/kizami_light.eot') format("eot"), url('../../fonts/kizami_light.woff') format("woff");
+    src: url('../fonts/kizami_light.eot') format("eot"), url('../fonts/kizami_light.woff') format("woff");
 }
 
 *{
